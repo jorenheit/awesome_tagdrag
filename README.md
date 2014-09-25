@@ -5,6 +5,7 @@ INSTALLATION:
 1)
 
   cd ~/.config/awesome
+
   git clone https://github.com/jorenheit/awesome_alttab.git alttab
 
 2) Add to rc.lua:
