@@ -7,7 +7,7 @@ INSTALLATION:
   git clone https://github.com/jorenheit/awesome_alttab.git alttab
 
 2) Add to rc.lua:
-   local alttab = require("alttab")
+   local tagdrag = require("tagdrag")
 
 3) Add key-bindings to table, for example:
 
