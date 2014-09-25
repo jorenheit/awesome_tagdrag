@@ -3,6 +3,7 @@ Drag clients to other tags and move with them
 
 INSTALLATION:
 1)
+
   cd ~/.config/awesome
   git clone https://github.com/jorenheit/awesome_alttab.git alttab
 
